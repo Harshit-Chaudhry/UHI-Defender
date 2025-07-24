@@ -56,7 +56,7 @@ This project provides tools for analyzing urban trees and temperature data using
 ## 🖼️ Visual Results
 
 ### 🌳 Street View Image
-![Street View](Assets\coordinate_54.975056,-1.591944_images\street_view_0.jpg)
+![Street View](Assets/coordinate_54.975056,-1.591944_images/street_view_0.jpg)
 
 ### 🌳 Street View Images (Tree Detection)
 ![Segmented Panorama](Assets/street_view_0.jpg)
@@ -68,16 +68,16 @@ This project provides tools for analyzing urban trees and temperature data using
 ![Panorama](Assets/panorama_copy.jpg)
 
 ### 🌇 Satellite Imagery
-![Panorama](Assets\Aim_1_Ouseburn_Sate.jpg)
+![Panorama](Assets/Aim_1_Ouseburn_Sate.jpg)
 
 ### 🌇 Satellite Imagery (Aerial Tree Detection)
-![Panorama](Assets\satellite_start.jpg)
+![Panorama](Assets/satellite_start.jpg)
 
 ### 🌡️ Temperature Trends
-![Temperature Trends](Assets\temperature_trends_Aim_1_20250405_202947.png)
+![Temperature Trends](Assets/temperature_trends_Aim_1_20250405_202947.png)
 
 ### 📊 Seasonal Statistics
-![Seasonal Stats](Assets\seasonal_stats_Aim_1_Ouseburn_20250515_193951.png)
+![Seasonal Stats](Assets/seasonal_stats_Aim_1_Ouseburn_20250515_193951.png)
 
 
 ## Requirements
