@@ -92,7 +92,7 @@ def process_images_in_folder(folder_path, model_path, output_dir="detected_trees
 
 
 if __name__ == "__main__":
-    folder_path = "data\coordinate_55.0149809,-1.6224566_images"  # Replace <latitude> and <longitude> with actual values
+    folder_path = "data\coordinate_55.0149809,-1.6224566_images" 
     model_path = "models/tree_detection_street_best.pt"
     output_directory = "detected_trees_output_yolo_class"
 
