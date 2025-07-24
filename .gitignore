@@ -1,3 +1,25 @@
+# Python Ingnore Folder By Me
+# This file is a template for ignoring files and directories in Python projects.
+
+# Explicitly ignore unwanted folders
+__pycache__/
+.venv/
+cache/
+count_trees_opt/
+data/
+detected_trees_output_main_integrated/
+detected_trees_output_yolo_class/
+heatmaps/
+models/
+myvenv/
+segmented_trees/
+segmented_trees_output_sam/
+Tempheatmaps/
+Training_model/
+Trials/
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

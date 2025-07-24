@@ -1,0 +1,14 @@
+Aim 1 :- make a python program in which we enter the street names and get the coordinate of that Location 
+
+Aim 2 :- Make a python program to get 6 images from coordinates which combine covers 360 degrees ( all surrounding view )  { 1 images covers 60 degree }
+
+Aim 3 :- To segmentatation of of trees in Street Image with dark green color but if there is no tree then greenry like bushesh or herbs segmented with light green.
+
+Aim 4:-  To segmentatation of Trees in Panorama image  with dark green color but if there is no tree then greenry like bushesh or herbs segmented with light green.
+
+Aim 5 :-  Train the Deep learning model for Segmentation
+
+Aim 6:-   Maintain the Documentation
+
+
+Submission Date :- 23 Feb to 25 Feb

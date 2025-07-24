@@ -1,0 +1,7 @@
+api_key: "[YOUR_API_KEY_HERE]"
+satellite_output_directory: data/Satellite_images
+
+model_paths:
+  best_model: "models/best.pt"
+  last_model: "models/last.pt"
+
